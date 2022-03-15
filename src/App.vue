@@ -5,7 +5,8 @@ import Card from './components/Card.vue';
 </script>
 
 <template>
-  <div h="full" flex="~ wrap" justify="around" align="items-center">
+  <h1 text="center xl" p="4">Hello</h1>
+  <div h="2/3" flex="~ wrap" justify="around" align="items-center">
     <Card />
     <Card />
     <Card />
